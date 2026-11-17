@@ -1,4 +1,4 @@
-# ⚡ Charged Technology Solutions — GitHub Configuration
+# ⚡ Charged Technology Solutions — GitHub
 
 Welcome to the official GitHub configuration repository for **Charged Technology Solutions (CTS)**.
 
