@@ -2,7 +2,7 @@
 
 # ⚡ Charged Technology Solutions
 
-### Technology that works for you.
+### Giving the tools of tomorrow
 
 **IT Support • Networking • Systems Integration • Infrastructure**
 
